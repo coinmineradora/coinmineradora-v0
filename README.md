@@ -4,8 +4,11 @@ CoinMineradora-v0.1 é um software de mineração totalmente automatizado que mo
 
 **COMO CONFIGURAR E EXECUTAR**
 - Abra o arquivo 'start.bat' em um editor de textos.
-- Substitua o parâmetro 'wallet' pela **sua carteira Bitcoin (BTC Wallet)**.
+- Substitua o parâmetro 'wallet' pela **sua carteira bitcoin (BTC Wallet)**.
 - Começe a minerar! :-D
+
+
+Gostou do projeto? Todas as doações de bitcoins são muito bem vindas! **1EfnAdZJCW2fPEVg3GseawkWum2q893YxS**
 
 
 **NOTAS IMPORTANTES**
@@ -43,4 +46,7 @@ R5. O tempo de benchmark depende muito de quantos algoritmos w softwares de mine
 P6. É possível escolher quantas GPUs serão alocadas para o processo de mineração?
 
 R6. Essa funcionalidade será implementada no futuro com o lançamento da nova interface gráfica do software controlador do **Coin Mineradora**.
+
+
+Nosso agradecimento especial ao usuário "aaronsace" por desenvolver e manter o projeto "MultiPoolMiner"!
 
