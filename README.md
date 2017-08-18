@@ -1,9 +1,15 @@
 # CoinMineradora-v0.1
-CoinMineradora-v0.1 é um software de mineração totalmente automatizado que monitora o pool da www.CoinMineradora.com.br em tempo real para procurar o algoritmo mais rentável no momento. Benchmarks para selecionar o software de mineração mais adequado ao seu equipamento. Download automático de todos os softwares de mineração necessários. **CONFIGURE E ESQUEÇA!**
+CoinMineradora-v0.1 é um software de mineração totalmente automatizado que monitora o pool da **www.CoinMineradora.com.br** em tempo real para procurar o algoritmo mais rentável no momento. Benchmarks para selecionar o software de mineração mais adequado ao seu equipamento. Download automático de todos os softwares de mineração necessários. **CONFIGURE, ESQUEÇA E RECEBA SEUS PAGAMENTOS EM BITCOIN (BTC)!**
+
+
+**COMO CONFIGURAR E EXECUTAR**
+- Abra o arquivo 'start.bat' em um editor de textos.
+- Substitua o parâmetro 'wallet' pela **sua carteira Bitcoin (BTC Wallet)**.
+- Começe a minerar! :-D
 
 
 **NOTAS IMPORTANTES**
-- Não é recomendado, mas para atualizar de uma versão anterior você pode simplesmente copiar a pasta "/Stats"
+- Não é recomendado, mas para atualizar de uma versão anterior você pode simplesmente copiar a pasta '/Stats'
 - Se você usa Windows 7, por favor atualize o PowerShell: 
 https://www.microsoft.com/en-us/download/details.aspx?id=50395
 - CCMiner pode precisar do arquivo 'MSVCR120.dll'. Nesse caso instale o 'Visual C++ Redistributable Packages for Visual Studio 2013' tanto na versão 32bits como 64bits: 
@@ -16,7 +22,7 @@ https://www.microsoft.com/en-us/download/details.aspx?id=48145
 
 P1. Um minerador trava ou não funciona corretamente no meu computador e eu quero excluí-lo da mineração. O que devo fazer?
 
-R1. Localize o arquivo de configuração desse minerador dentro da pasta "/Miners" e apague o arquivo ou exclua totalmente o algoritmo (veja a pergunta 3 abaixo). Esses arquivos possuem extensão '.ps1'. Por favor note que alguns softwares de mineração podem possuir vários arquivos de configuração e/ou vários algotirmos habilitados.
+R1. Localize o arquivo de configuração desse minerador dentro da pasta '/Miners' e apague o arquivo ou exclua totalmente o algoritmo (veja a pergunta 3 abaixo). Esses arquivos possuem extensão '.ps1'. Por favor note que alguns softwares de mineração podem possuir vários arquivos de configuração e/ou vários algotirmos habilitados.
 
 P2. Um software de mineração diz que um dispositivo CL (CL device) está faltando ou não foi encontrado (missing or not found). Como resolvo isso?
 
