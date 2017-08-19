@@ -2,7 +2,7 @@
 
 try
 {
-    $Zpool_Request = Invoke-WebRequest "http://mine.coinmineradora.com.br/api/status" -UseBasicParsing | ConvertFrom-Json
+    $Zpool_Request = Invoke-WebRequest "http://www.coinmineradora.com.br/api/status" -UseBasicParsing | ConvertFrom-Json
 }
 catch
 {

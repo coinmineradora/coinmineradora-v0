@@ -28,6 +28,7 @@ $Commands = [PSCustomObject]@{
     #"sia" = "" #Sia
     #"sib" = "" #Sib
     #"skein" = "" #Skein
+	"skunk" = " -i 26" #skunk
     "timetravel" = "" #Timetravel
     #"x11" = "" #X11
     #"veltor" = "" #Veltor
