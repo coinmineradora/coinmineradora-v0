@@ -1,1 +1,0 @@
-powershell -version 5.0 -noexit -executionpolicy bypass -windowstyle maximized -command "&.\CoinMineradora-v0.1.ps1 -Currency BTC -interval 90 -Wallet 1EfnAdZJCW2fPEVg3GseawkWum2q893YxS -Location US -PoolName CoinMineradora -Type nvidia -Algorithm keccak,lbry,myr-gr,skunk,tribus -Donate 0"
